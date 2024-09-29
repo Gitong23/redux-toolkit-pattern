@@ -5,6 +5,7 @@ const AppFooter = () => {
     <>
       <p>created by codingthailand.com</p>
       <p>Hello Welcome</p>
+      <p>Edit Ja</p>
     </>
   );
 };
